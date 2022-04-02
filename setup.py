@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="uselesspackage",
-    version="0.0.1",
+    version="0.0.2",
     author="Nikolai Limbrunner",
     author_email="nikolai.limbrunner@gmail.com",
     description="Useless package for demo purposes",
